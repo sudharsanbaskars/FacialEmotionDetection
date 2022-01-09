@@ -6,3 +6,7 @@
 - It can able to detect and classify the facial emotions in real time alse. 
 
 ### Images
+![happy](https://user-images.githubusercontent.com/71257512/148688614-5e6c19db-be4d-4ed4-b190-ce84e1845655.jpg)
+![sad1](https://user-images.githubusercontent.com/71257512/148688620-aa18a674-77c1-4ef6-b5df-729ed746b762.jpg)
+![neutral1](https://user-images.githubusercontent.com/71257512/148688625-930e75cb-2853-4c86-8eb8-a04bd9eff448.jpg)
+![fear1](https://user-images.githubusercontent.com/71257512/148688633-e9a3c81c-81cc-4b66-927b-86105dbfde95.jpg)
