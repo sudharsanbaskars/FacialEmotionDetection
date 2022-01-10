@@ -18,7 +18,7 @@
 
 ### Training
 - The Model was trained using Resnet-152 architecture by the transfer learning mechanism.
-- It was trained for 30 epcochs.
+- It was trained for 30 epochs.
 
 ### Tools Used
 - Python 
