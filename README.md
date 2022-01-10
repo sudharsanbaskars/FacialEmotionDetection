@@ -22,3 +22,5 @@ The Dataset was sourced from this [link](https://www.kaggle.com/c/challenges-in-
 - Python 
 - Pytorch
 - OpenCV
+
+Due to limited Storage, I didn't include the model in this repository. 
