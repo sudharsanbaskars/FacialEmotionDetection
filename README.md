@@ -13,4 +13,4 @@
 ![neutral2](https://user-images.githubusercontent.com/71257512/148688871-56f79614-082f-42bb-9c1d-0ecb7d9ee00b.jpg)
 
 ### Dataset
-The Dataset was sourced from this (link)[https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data]
+The Dataset was sourced from this [link](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
