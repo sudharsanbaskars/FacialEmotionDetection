@@ -12,7 +12,9 @@
 ![neutral2](https://user-images.githubusercontent.com/71257512/148688871-56f79614-082f-42bb-9c1d-0ecb7d9ee00b.jpg)
 
 ### Dataset
-The Dataset was sourced from this [link](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+- The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image. The task is to categorize each face based on the emotion shown in the facial expression in to one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
+- The training set consists of 28,709 examples. The public test set used for the leaderboard consists of 3,589 examples. The final test set, which was used to determine the winner of the competition, consists of another 3,589 examples.
+- The Dataset was sourced from this [link](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 ### Training
 - The Model was trained using Resnet-152 architecture by the transfer learning mechanism.
