@@ -2,8 +2,7 @@
 
 ### Description
 - This Repository contains the code files for building a Deep Convolutional Neural Netwok based model to identify the human facial emotions into 5 classes namely Neutral, Happy, Sad, Fear and Angry.
-- The Model was built using Resnet-152 architecture by the transfer learning approch.
-- It can able to detect and classify the facial emotions in real time alse. 
+- It can be able to detect and classify the facial emotions in real time also. 
 
 
 ![happy](https://user-images.githubusercontent.com/71257512/148689048-db1d759e-93cb-4dbf-81f9-667c441ec134.jpg)
@@ -14,3 +13,12 @@
 
 ### Dataset
 The Dataset was sourced from this [link](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+
+### Training
+- The Model was trained using Resnet-152 architecture by the transfer learning mechanism.
+- It was trained for 30 epcochs.
+
+### Tools Used
+- Python 
+- Pytorch
+- OpenCV
